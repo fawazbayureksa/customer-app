@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "828046531336",
+    "project_id": "tokodapurpagebuilder",
+    "storage_bucket": "tokodapurpagebuilder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828046531336:android:14225e7fc7ce3f63382abd",
+        "android_client_info": {
+          "package_name": "com.customerpagebuildermobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828046531336-v0bc7shhp12uu6dpkdsfkj9r60l05mk5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.customerpagebuildermobile",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "828046531336-53q6b3be40t2gpvdb28l7nt2a579eq38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiyXd_bUlAxBjIQSBW_xZXEXBKP3I5Ic8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828046531336-53q6b3be40t2gpvdb28l7nt2a579eq38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

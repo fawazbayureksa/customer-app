@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">customerPageBuilderMobile</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">kVTJAt7-EkA4Im9NiNpilHbjNIGa3WaxLDnAY</string>
+    <string name="facebook_app_id">5719216974801934</string>
+    
+    <string name="fb_login_protocol_scheme">fb5719216974801934</string>
+    <string name="facebook_client_token">22a014018ce7674e02c80b386b589139</string>
+
+
+</resources>

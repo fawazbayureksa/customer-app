@@ -1,0 +1,21 @@
+export default {
+    // en
+    membership: "Membership",
+    history: "View Points Activity History",
+    modal_info: "More Info",
+    redeem_voucher: "Redeem Points with Vouchers",
+    point: "Point",
+    redeem_voucher_2: "Upgrade Your Level to Get This Voucher",
+    details: "Details",
+    expire: "Points will expire on",
+    next_level: "Points to go to the next level",
+    exchange_points: "Exchange Points",
+    header_modal_exchange_point: "Are You Sure You Want To Buy This Voucher?",
+    header_modal_details_member: "Member Details",
+    header_modal_history_point: "Point Activity History",
+    header_modal_error_point: "Sorry, Your Points Are Not Enough",
+    body_modal_error_point: "Keep adding your transactions to get more points.",
+    button_modal_exchange_point: "Buy Voucher",
+    button_cancel_modal_exchange_point: "Later",
+    loyalty_points: "Loyalty Points",
+}

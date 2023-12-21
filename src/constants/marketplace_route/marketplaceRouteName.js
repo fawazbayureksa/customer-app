@@ -1,0 +1,16 @@
+export const MarketplaceRouteName = {
+  PRODUCTS: 'Products',
+  SELLERS: 'Sellers',
+  PRODUCT_DETAIL: 'Product Detail',
+  CART: 'Cart',
+  CHECKOUT: 'Checkout',
+  PAYMENT: 'Payment',
+  WAITING_PAYMENT: 'Waiting Payment',
+  DETAIL_PAYMENT: 'Detail Payment',
+  ORDER_LIST: 'Order List',
+  WISHLIST: 'Wishlist',
+  RATING: 'Rating',
+  CHAT_OPTIONS: 'ChatOptions',
+  ORDER_DETAIL: 'Detail Pesanan',
+  SELLER_PROFILE: 'SellerProfile',
+};

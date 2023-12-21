@@ -1,0 +1,10 @@
+{
+  "name": "customerPageBuilderMobile",
+  "displayName": "customerPageBuilderMobile",
+  "react-native": {
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": ["js", "jsx", "css"]
+    }
+  }
+}
